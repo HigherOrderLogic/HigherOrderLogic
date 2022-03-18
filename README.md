@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**HigherOrderLogic/HigherOrderLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=higherorderlogic&count_private=true&show_icons=true&locale=en&theme=buefy&&hide=contribs"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=higherorderlogic&theme=buefy&show_icons=true&locale=en&layout=compact"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contributions
+
+![Contributions](https://github.com/HigherOrderLogic/HigherOrderLogic/blob/assets/snake/snake.svg)
