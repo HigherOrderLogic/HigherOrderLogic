@@ -1,12 +1,13 @@
 # Hi there 👋
 
-### Github Stats
+### Overview
 
-![User stats](https://github-readme-stats.vercel.app/api?username=higherorderlogic&count_private=true&show_icons=true&locale=en&theme=buefy)
+<a>
 
-### Most used languages
+![Github stats](https://github.com/HigherOrderLogic/assets/blob/main/generated/overview.svg)
+![Most used langs](https://github.com/HigherOrderLogic/assets/blob/main/generated/languages.svg)
 
-![Most used languages](https://github.com/HigherOrderLogic/assets/blob/main/metrics.plugin.languages.svg)
+</a>
 
 ### Contributions
 
