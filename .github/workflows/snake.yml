@@ -16,14 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: generate snake.svg and snake.gif
+      - name: Generate snake.svg and snake.gif
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/snake.svg
           gif_out_path: dist/snake.gif
 
-      - name: push snake.svg and snake.gif to the assets/snake branch
+      - name: Push snake.svg and snake.gif to the assets/snake branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: assets/snake
