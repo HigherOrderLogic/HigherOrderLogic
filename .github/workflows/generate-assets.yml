@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate assets
 
 on:
   schedule: [{cron: "0 0 * * *"}]
@@ -53,8 +53,11 @@ jobs:
           filename: metrics.svg
           user: ${{ github.repository_owner }}
           template: classic
-          base: header, activity, community
+          base: header, repositories, activity, community
           base_indepth: yes
+
+          plugin_lines: yes
+          plugin_lines_delay: 10
 
           plugin_isocalendar: yes
 
