@@ -66,5 +66,4 @@ jobs:
           plugin_introduction_title: no
 
           plugin_languages: yes
-          plugin_languages_ignored: c++
           plugin_languages_details: bytes-size, percentage
